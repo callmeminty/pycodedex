@@ -1,0 +1,5 @@
+print("26/11/2023")
+print("Im feeling sad")
+print("I want to become a software engeneer")
+print("Have we made it? future myself?")
+print("🐸")
